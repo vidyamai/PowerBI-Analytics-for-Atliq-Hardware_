@@ -1,16 +1,16 @@
 # AtliQ Hardware Data Analytics with PowerBI
 
 ## Project Overview
-AtliQ Hardware is a rapidly growing company in the hardware industry, looking to leverage data analytics using PowerBi to gain a competitive edge in the market. This project aims to provide data-driven insights across various business domains such as finance, sales, marketing, and supply chain management.
+AtliQ Hardware is a rapidly growing company in the hardware industry, looking to leverage data analytics using PowerBI to gain a competitive edge in the market. This project aims to provide data-driven insights across various business domains such as finance, sales, marketing, and supply chain management.
 
 ## Project Objectives
-- Implement data analytics using PowerBi for informed decision-making.
+- Implement data analytics using PowerBI for informed decision-making.
 - Provide stakeholders with actionable insights into key business metrics.
 - Analyze and visualize data from multiple sources to identify trends and patterns.
 - Optimize business processes and strategies based on data-driven recommendations.
 
 ## Course and Learning
-The project was developed based on the Codebasics PowerBi Course, which provided valuable insights and techniques in utilizing PowerBi for advanced data analytics and visualization. The course covered topics such as:
+The project was developed based on the Codebasics PowerBI Course, which provided valuable insights and techniques in utilizing PowerBI for advanced data analytics and visualization. The course covered topics such as:
 - Data modeling
 - Calculated columns and measures using DAX language
 - Visualizations and interactive dashboards
