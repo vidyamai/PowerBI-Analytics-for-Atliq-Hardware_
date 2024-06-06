@@ -1,4 +1,4 @@
-# AtliQ Hardware Data Analytics with PowerBi
+# AtliQ Hardware Data Analytics with PowerBI
 
 ## Project Overview
 AtliQ Hardware is a rapidly growing company in the hardware industry, looking to leverage data analytics using PowerBi to gain a competitive edge in the market. This project aims to provide data-driven insights across various business domains such as finance, sales, marketing, and supply chain management.
