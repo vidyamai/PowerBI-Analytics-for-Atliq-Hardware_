@@ -57,7 +57,35 @@ Utilizing GitHub for version control, collaboration, and managing project docume
 - Tracking specific file extensions for LFS
 - Maintaining project README, codebase, and related files on GitHub repository
 
+## Ambition
+- To know the Sales, Marketing, Finance and Supply chain Analytics Insights.
+# Sales
+- To know the Net Sales, Gross Margin & Gross Margin% of the Customers and at what pace the business is growing w.r.t each Customer.
+-  To find out the profit and loss value
+
+![sales](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/f5eee5a2-059f-4fc1-8fdc-7821bfafa668)
+
+# Marketing
+- To get the analytics of the marketing for each segment and Region of the product.
+- This View mainly concentrate on the Net profit so that we will know that the how much marketing has spent and how much the Net profit has been impacted.
+  
+![marketing](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/69c375ee-ff9f-4f0c-ad96-8eec5a98ccec)
+
+# Finance
+- Here we concentrate on getting the Profit & Loss Statement, Net sales performance over years
+- Top / Bottom customers & Products by Net Sales
+
+  ![finance](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/7da91e0f-2408-4ec5-8079-21e646e02e77)
+
+  # Supply Chain Analytics
+  - In Supply Chain We analyse the forecase accuracy and Net error through charts.
+  - We will also determine which inventories are "out of stock" and which are " Excess"
+  - We also determined the Net error, Forecast Accuracy and Absolute error for the selected year and the last years.
+
+    ![supplychain](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/3b11339a-7550-4fc8-8d6b-98fb054588e3)
+
 ## Next Steps
 - Continuous data analysis and report refinement based on stakeholder feedback.
 - Automation of data refresh and report generation for real-time insights.
 - Integration with other business systems and data sources for comprehensive analytics.
+
