@@ -1,91 +1,90 @@
-# AtliQ Hardware Data Analytics with PowerBI
+# Table of Contents
+1. [About Atliq Technologies](#about-atliq-technologies)
+2. [Project Background](#project-background)
+3. [Executive Summary](#executive-summary)
+4. [Insights Deep-Dive](#insights-deep-dive)
+   - [Sales and Growth Rates](#sales-and-growth-rates)
+   - [Key Product Performance](#key-product-performance)
+   - [Customer Growth](#customer-growth)
+   - [Sales by Platforms & Channels](#sales-by-platforms--channels)
+5. [Recommendations](#recommendations)
+6. [Clarifying Questions, Assumptions, and Caveats](#clarifying-questions-assumptions-and-caveats)
+   - [Questions for Stakeholders Prior to Project Advancement](#questions-for-stakeholders-prior-to-project-advancement)
+   - [Assumptions and Caveats](#assumptions-and-caveats)
 
-## Project Overview
-AtliQ Hardware is a rapidly growing company in the hardware industry, looking to leverage data analytics using PowerBI to gain a competitive edge in the market. This project aims to provide data-driven insights across various business domains such as finance, sales, marketing, and supply chain management.
+# About Atliq Technologies
+Atliq Technologies is a global hardware company specializing in selling products such as mice, monitors, and disks to e-commerce platforms, retailers, and directly through its online platform in India. Additionally, it leverages a distributor in China to expand its market reach. The company operates across multiple regions, including APAC, EU, LATAM, and North America, with India and APAC being the major contributors. Amazon serves as one of its largest customers.
 
-## Project Objectives
-- Implement data analytics using PowerBI for informed decision-making.
-- Provide stakeholders with actionable insights into key business metrics.
-- Analyze and visualize data from multiple sources to identify trends and patterns.
-- Optimize business processes and strategies based on data-driven recommendations.
+---
 
-## Course and Learning
-The project was developed based on the Codebasics PowerBI Course, which provided valuable insights and techniques in utilizing PowerBI for advanced data analytics and visualization. The course covered topics such as:
-- Data modeling
-- Calculated columns and measures using DAX language
-- Visualizations and interactive dashboards
-- Data import and transformation
-- PowerBi services and collaboration
+## Project Background
+The "Business Insight 360 Dashboard" project aims to enhance transparency and enable data-driven decision-making across sales and marketing functions. By leveraging insights from this project, Atliq expects to achieve a **10% incremental profit** and optimize product launches by identifying the most suitable regions and customer segments for expansion. The analysis covers data from **2019 to 2022** across multiple global markets.
 
-## Tech Stacks
-The project leverages the following technologies:
-- SQL for data querying and manipulation
-- PowerBi Desktop for data visualization and reporting
-- Excel for data preprocessing and analysis
-- DAX language for advanced calculations and measures
-- DAX studio for optimizing PowerBi reports
+---
 
-## Project Features
-- **Data Modeling:** Designing efficient data models for better report performance and analysis.
-- **Visualization:** Creating interactive and insightful dashboards using PowerBi visuals.
-- **Data Integration:** Combining data from multiple sources such as SQL databases, Excel files, and CSVs.
-- **Advanced Analytics:** Implementing complex calculations, KPIs, and forecasting using DAX language.
-- **Collaboration:** Setting up workspaces, managing access permissions, and sharing reports via PowerBi services.
+## Executive Summary
+The analysis of Atliq's sales and marketing performance with 188k records from **2019 to 2022** reveals key trends and opportunities. While India and APAC regions drive significant revenue contributing to 50% of market, underperforming customers in other regions present areas for improvement. **The net sales in 2022 yielded a gross margin of 38%, with COGS, including manufacturing and operational expenses, accounting for 62%.Targeted growth in APAC and India, along with concentrating to e-commerce like the  Amazon, flipcart will strengthen Atliq's market position and drive sustainable growth.**
 
-## Business Terms
-Understanding and analyzing business terms and metrics such as:
-- Gross price
-- Pre-invoice deductions
-- Post-invoice deductions
-- Net Invoice sale
-- Gross Margin
-- Net sales
-- Net profit
-- COGS (Cost of Goods Sold)
-- YTD (Year to Date)
-- YTG (Year to Go)
+### Key Findings:
+- **Customer Novus (Philippines)** underperformed in 2022, with a **GM% of 21.49% across all product segments**, indicating excessive discounting. A discussion with representatives is needed to address this issue.
+- **Customer Notebillig (Germany)** has consistently underperformed over three years, with a **GM% below 22%** each year, requiring a review of pricing and sales strategy.
+- **Customer Synthetic**, a high performer in 2020 and 2021, saw an **11% decline in GM% in 2022**, placing it among underperformers.
 
-## Dataset Overview
-Exploring and analyzing datasets including:
-- Dimension tables: Customer, Market, Product
-- Fact tables: Forecast, Sales
-- Additional tables: Freight cost, Gross price, Manufacturing cost, Deductions
+Atliq must focus on strategic interventions to improve customer profitability and enhance gross margins while maintaining sales growth.
 
-## GitHub Usage
-Utilizing GitHub for version control, collaboration, and managing project documentation.
-- Uploading large files using GitHub LFS
-- Tracking specific file extensions for LFS
-- Maintaining project README, codebase, and related files on GitHub repository
+---
 
-## Ambition
-- To know the Sales, Marketing, Finance and Supply chain Analytics Insights.
-# Sales
-- To know the Net Sales, Gross Margin & Gross Margin% of the Customers and at what pace the business is growing w.r.t each Customer.
--  To find out the profit and loss value
+## Insights Deep-Dive
 
-![sales](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/f5eee5a2-059f-4fc1-8fdc-7821bfafa668)
+### Sales and Growth Rates
+- **Total Net Sales grew from $823.85M in 2021 to $3,736.17M in 2022** (**+353% increase**).
+- **Total Gross Margin improved from 36.49% in 2021 to 38.08% in 2022**, showing better profitability at the product level.
+- However, **Net Profit % declined from -6.63% to -13.98%**, suggesting increasing operational costs.
 
-# Marketing
-- To get the analytics of the marketing for each segment and Region of the product.
-- This View mainly concentrate on the Net profit so that we will know that the how much marketing has spent and how much the Net profit has been impacted.
-  
-![marketing](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/69c375ee-ff9f-4f0c-ad96-8eec5a98ccec)
+### Customer Growth
+- High-revenue customers show declining profitability due to **discounts and rising operational costs**.
+- **New vs. Repeat Customers:** Retention rates need improvement to sustain profitability.
+- Identifying **high-growth vs. declining customers** can help focus on profitable segments.
 
-# Finance
-- Here we concentrate on getting the Profit & Loss Statement, Net sales performance over years
-- Top / Bottom customers & Products by Net Sales
+### Sales by Platforms & Channels
+- **Amazon remains the dominant sales channel** but with increasing margin pressure.
+- **Direct sales in India show potential for higher profitability compared to distributor-based markets** like China.
+- **Regional performance** varies, with India and APAC leading while LATAM and EU show weaker margins.
 
-  ![finance](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/7da91e0f-2408-4ec5-8079-21e646e02e77)
+### Key Product Performance
+- **Notebook and Peripherals** saw the highest revenue growth but also the largest losses in Net Profit.
+- **Desktop sales surged by 1,431% but had the highest Net Profit decline (-13.75%)**.
+- **Storage & Networking** remained stable but had minimal growth potential.
 
-  # Supply Chain Analytics
-  - In Supply Chain We analyse the forecase accuracy and Net error through charts.
-  - We will also determine which inventories are "out of stock" and which are " Excess"
-  - We also determined the Net error, Forecast Accuracy and Absolute error for the selected year and the last years.
 
-    ![supplychain](https://github.com/vidyamai/PowerBi-Analytics-for-Atliq-Hardware_/assets/84960322/3b11339a-7550-4fc8-8d6b-98fb054588e3)
 
-## Next Steps
-- Continuous data analysis and report refinement based on stakeholder feedback.
-- Automation of data refresh and report generation for real-time insights.
-- Integration with other business systems and data sources for comprehensive analytics.
+---
+
+## Recommendations
+1. **Investigate Rising Expenses:** Identify and cut excess costs impacting net profit.
+2. **Review Pricing Strategy:** If discounting is affecting profits, reconsider pricing models.
+3. **Target Profitable Segments:** Notebook & Peripherals should be optimized for profitability.
+4. **Analyze Supply Chain & Logistics Costs:** Ensure operational costs aren’t growing faster than revenue.
+5. **Expand High-Growth Markets:** APAC and India should see more investments in direct sales and marketing.
+
+---
+
+## Clarifying Questions, Assumptions, and Caveats
+
+### Questions for Stakeholders Prior to Project Advancement
+- What are the key business objectives for **2023 and beyond**?
+- Should the focus be on **revenue growth, margin improvement, or cost-cutting**?
+- Are there planned changes to **pricing, supply chain, or marketing strategy**?
+- Should underperforming customers be retained or phased out?
+
+### Assumptions and Caveats
+- The analysis assumes that **sales trends and cost structures remain stable** without major disruptions.
+- **Discounting policies and pricing elasticity are not fully modeled** and may require additional data.
+- Certain **market trends, competitive dynamics, and external economic factors** are not accounted for.
+
+By addressing these areas, Atliq Technologies can drive data-driven decision-making, improve profitability, and position itself for sustainable growth.
+
+---
+
+Let me know if you'd like further refinements or additional insights! 🚀
 
