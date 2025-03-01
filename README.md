@@ -34,7 +34,7 @@ Atliq must focus on strategic interventions to improve customer profitability an
 
 ---
 
-## Insights Deep-Dive
+## `Insights Deep-Dive
 
 ### Sales and Growth Rates
 - **Total Net Sales grew from $823.85M in 2021 to $3,736.17M in 2022** (**+353% increase**).
