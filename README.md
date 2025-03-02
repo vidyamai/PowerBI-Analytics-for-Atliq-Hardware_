@@ -36,6 +36,9 @@ Atliq must focus on strategic interventions to improve customer profitability an
 
 ## `Insights Deep-Dive
 
+![image](https://github.com/user-attachments/assets/75419e60-bae3-4a89-916e-0aeaefa3d53e)
+
+
 ### Sales and Growth Rates
 - **Total Net Sales grew from $823.85M in 2021 to $3,736.17M in 2022** (**+353% increase**).
 - **Total Gross Margin improved from 36.49% in 2021 to 38.08% in 2022**, showing better profitability at the product level.
@@ -50,6 +53,9 @@ Atliq must focus on strategic interventions to improve customer profitability an
 - **Amazon remains the dominant sales channel** but with increasing margin pressure.
 - **Direct sales in India show potential for higher profitability compared to distributor-based markets** like China.
 - **Regional performance** varies, with India and APAC leading while LATAM and EU show weaker margins.
+
+![image](https://github.com/user-attachments/assets/a8b0d6a9-e09d-497f-af0b-b8773caef199)
+
 
 ### Key Product Performance
 - **Notebook and Peripherals** saw the highest revenue growth but also the largest losses in Net Profit.
